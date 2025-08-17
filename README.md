@@ -20,10 +20,8 @@
 </b>Social Networks</b>
 
 <div>
- <a href="https:/www.linkedin.com/in/gabrielle-macedo-a74557144" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato.trindadegabriel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></>
+ <a href="https://www.linkedin.com/in/gabrielle-macedo-a74557144" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabrielle.msilva@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></>
 </div>
 
-
-![Snake animation](https://github.com/gabismacedo/gabismacedo/blob/output/github-contribution-grid-snake.svg)
 
