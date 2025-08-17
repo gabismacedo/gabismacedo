@@ -1,8 +1,8 @@
-<b>Hi! I'm Gabi, software developer 👩🏾‍💻 </b>
+## Hi! I'm Gabi, software developer 👩🏾‍💻 
 
 <br>
 
-<b>Technologies</b>
+# Technologies
 <div style="display: inline_block">
   <img align="center" alt="Gabi-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> 
   <img  align="center" alt="Gabi-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> 
@@ -17,7 +17,7 @@
 
 <br>
  
-</b>Social Networks</b>
+# Social Networks
 
 <div>
  <a href="https://www.linkedin.com/in/gabrielle-macedo-a74557144" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
