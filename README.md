@@ -1,4 +1,4 @@
-## Hi! I'm Gabi, software developer 👩🏾‍💻 
+## Hi! I'm Gabi, fullstack developer 👩🏾‍💻 
 
 <br>
 
