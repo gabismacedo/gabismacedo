@@ -2,6 +2,12 @@
 
 <br>
 
+<div>
+  <a href="https://beacons.page/tadsgabrieltrindade">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabismacedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabismacedo&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+    
 # Technologies
 <div style="display: inline_block">
   <img align="center" alt="Gabi-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> 
