@@ -18,6 +18,7 @@ jobs:
           github_user_name: gabismacedo
           outputs: |
             dist/github-contribution-grid-snake.svg
+            color_scheme: "[#000000,#8fd694,#35c084,#14a068,#006d32]"
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
